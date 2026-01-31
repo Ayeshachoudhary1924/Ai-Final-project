@@ -1,0 +1,7 @@
+url_length,special_chars,has_https,label
+54,3,1,1
+23,1,1,0
+45,2,0,1
+78,6,0,1
+32,1,1,0
+90,7,0,1
